@@ -1,2 +1,0 @@
-# CISC3140
-PacMan
